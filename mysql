@@ -1,0 +1,13 @@
+!!!!!use mysql password="SP4@2021"!!!!!!!!!
+
+CREATE DATABASE chirag;
+
+USE chirag;
+
+CREATE TABLE train_detail (train_no int(4) NOT NULL, cost int(5), starting_point varchar(50), destination varchar(60), via varchar(90), time_of_departure varchar(40), date_available varchar(88), status varchar(30));
+
+CREATE TABLE user_information (unique_id int(6) PRIMARY KEY, uname varchar(40) NOT NULL, age int(3), gender varchar(50), train_no int(4), starting_point varchar(50), destination varchar(60), reservation varchar(40));
+
+DESC train_detail;
+
+DESC user_information;
