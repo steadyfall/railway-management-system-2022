@@ -1,6 +1,6 @@
 import mysql.connector as ch
 import random
-conn=ch.connect(host='localhost',user="root",passwd='HimankSP4@2021',database='chirag')
+conn=ch.connect(host='localhost',user="root",passwd='SP4@2021',database='chirag')
 
 cur=conn.cursor()
 
