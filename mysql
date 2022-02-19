@@ -1,5 +1,3 @@
-!!!!!use mysql password="SP4@2021"!!!!!
-
 CREATE DATABASE chirag;
 
 USE chirag;
