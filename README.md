@@ -9,8 +9,8 @@ It has also come to my light that I am unnecessarily using up bytes in the MySQL
 A new branch called `efficient` is made, if you want to check out the updated code. 
 
 Plans for the future : 
->> Use *tkinter* module to make a neat GUI
->> Use *matplotlib* module to show graphs for varying prices of trains
+> Use *tkinter* module to make a neat GUI
+> Use *matplotlib* module to show graphs for varying prices of trains
 
 You are free to add any modifications to this code or suggest me any ideas to enhance it. ❤
 
