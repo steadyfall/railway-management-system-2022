@@ -5,10 +5,11 @@ The name of the MySQL database is *‘chirag’*, which consists of two tables �
 \
 *‘train_detail’* table consists of 8 fields – 
 `train_no` , `cost` , `starting_point` , `destination` , `via` , `time_of_departure` , `date_available` and `status`. \
-![Table description #1](/images/train_detail desc.jpg)
+![Table description #1](https://github.com/steadyfall/railway-management-system-2022/blob/dcec0af1836e74b9eb1710920345b3b554660020/images/train_detail%20desc.jpg) \
+\
 *‘user_information’* table consists of 8 fields – 
 `unique_id` , `uname` , `age` , `gender` , `train_no` , `starting_point`, `destination` and `reservation`. \
-![Table description #2](/images/user_information desc.jpg)
+![Table description #2](https://github.com/steadyfall/railway-management-system-2022/blob/dcec0af1836e74b9eb1710920345b3b554660020/images/user_information%20desc.jpg)
 ## Python
 1. **railsmenu()** function starts the program and provides the user with multiple options – check the details of any train based on starting point and destination, reserve or cancel a ticket, check the PNR (Passenger Name Record) of their reservation, etc. This function is called on after the execution of functions such as train_detail(), reservation(), cancel(), displayPNR(). 
 
