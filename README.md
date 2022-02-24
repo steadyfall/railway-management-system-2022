@@ -23,5 +23,5 @@ You are free to add any modifications to this code or suggest me any ideas to en
 \
 \
 Made with love, \
-steadyfall (@steadyfall)
+steadyfall
 
